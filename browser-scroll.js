@@ -1,4 +1,4 @@
-function browserScroll(elementId, containerId = '') {
+export function browserScroll(elementId, containerId = '') {
 
     const elementNotFound = (id) => `Element with ID ${id} not found.`;
 

@@ -1,0 +1,29 @@
+{
+  "name": "browser-scroll",
+  "version": "1.0.1",
+  "description": "Cross browser scroll utility. Tested in Edge, Chrome, Internet Explorer (IE) and Mozilla.",
+  "main": "browser-scroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapsalands/browser-scroll.git"
+  },
+  "keywords": [
+    "Scroll",
+    "cross",
+    "browser",
+    "polyfill"
+  ],
+  "author": "Rapsy Tree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapsalands/browser-scroll/issues"
+  },
+  "homepage": "https://github.com/rapsalands/browser-scroll#readme",
+  "peerDependencies": {
+    "smoothscroll": "^0.4.0",
+    "smoothscroll-anchor-polyfill": "^1.3.2"
+  }
+}
